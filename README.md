@@ -64,6 +64,21 @@ This project focuses on analyzing diverse datasets using SAS, covering Instagram
   
 These findings reflect the effectiveness of SAS for data import, manipulation, and analysis, leveraging its capabilities for handling large datasets and generating actionable insights.
 
+# Technologies Used:
+
+SAS: For data processing, analysis, and reporting.
+
+SAS Macros: For automating dynamic analysis across multiple datasets.
+
+# How to run the code:
+
+1. Clone the GitHub repository.
+
+2. Navigate to the project directory.
+
+3. Open the .sas files in a SAS environment.
+
+4. Run the scripts in the appropriate order for the desired datasets and analysis.
 
 
 
