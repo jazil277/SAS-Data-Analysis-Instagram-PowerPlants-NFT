@@ -8,13 +8,29 @@ Objectives of the SAS Assignment:
 
 1. Data Import and Library Creation:
 
-Create and reference SAS libraries for organizing datasets.
+- Create and reference SAS libraries for organizing datasets.
 
-Import datasets like Instagram influencer data, global power plants, and NFT sales into SAS, ensuring valid variable names.
+- Import datasets like Instagram influencer data, global power plants, and NFT sales into SAS, ensuring valid variable names.
 
 2. Data Exploration and Analysis:
    
-Explore datasets using SAS procedures like PROC CONTENTS, PROC FREQ, and PROC MEANS to gather insights.
+- Explore datasets using SAS procedures like PROC CONTENTS, PROC FREQ, and PROC MEANS to gather insights.
 
-Summarize key data attributes and check for missing values, outliers, or inconsistencies.
+- Summarize key data attributes and check for missing values, outliers, or inconsistencies.
+
+3. Data Manipulation:
+   
+-Filter datasets by specific conditions and create temporary tables for focused analysis.
+
+-Perform transformations like calculating averages, summing values, or deriving new columns based on existing data.
+
+4. Statistical Insights:
+   
+- Generate detailed statistics, including mean, median, and standard deviation for numeric variables.
+  
+- Compare data between different categories (e.g., fuel types for power plants, NFT collections).
+
+5. Dynamic Data Processing using Macros:
+   
+- Implement SAS macros for dynamic filtering and output generation, allowing flexible analysis across multiple datasets (e.g., analyzing both "Music" and "Lifestyle" influencer categories).
 
